@@ -1,10 +1,11 @@
-Job:
+- Job:
     - title
     - description
     - location
     - jop type
     - published at
     - vacancy
+    - category
     - salary
     - experience
     - gender
@@ -12,11 +13,11 @@ Job:
     - apply jop
     - post jop
 
-Blog:
+- Blog:
     - title
     - description
     - created_at
-    - categeory
+    - category
     - tags
     - author
 
@@ -24,7 +25,7 @@ Blog:
     - comment
     - recent post
 
-Contact:
-Home:
+- Contact:
+- Home:
 
-Login
+- Login
