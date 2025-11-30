@@ -1,4 +1,4 @@
-Jop:
+Job:
     - title
     - description
     - location
